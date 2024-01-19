@@ -1,0 +1,64 @@
+# Dash Interactive Scatter Plot
+
+## Overview
+
+This project focuses on creating an interactive scatter plot using Dash, a powerful web framework for building interactive web applications with Python. The objective is to visualize the Iris dataset by plotting Sepal Length against Petal Length, allowing users to explore the data dynamically.
+
+## Table of Contents
+
+- [Getting Started](#getting-started)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Demo](#demo)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Getting Started
+
+Clone the repository to your local machine to get started.
+
+```bash
+git clone https://github.com/kekele-star/dash-interactive-scatter-plot.git
+cd dash-interactive-scatter-plot
+```
+
+## Features
+
+1. **Interactive Scatter Plot**: Visualize Sepal Length vs. Petal Length.
+2. **Dropdowns for Feature Selection**: Include dropdowns to select different features for the x and y axes.
+3. **Hover Data**: Display hover data showing all feature values for each data point.
+
+## Installation
+
+Create a virtual environment and install the required dependencies.
+
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+pip install -r requirements.txt
+```
+
+## Usage
+
+Run the Dash app to launch the interactive scatter plot.
+
+```bash
+python app.py
+```
+
+Open your web browser and navigate to [http://localhost:8050/](http://localhost:8050/) to interact with the scatter plot.
+
+## Demo
+
+[![Demo](demo.gif)](https://github.com/kekele-star/dash-interactive-scatter-plot)
+
+Check out the [demo](https://github.com/kekele-star/dash-interactive-scatter-plot) for a visual walkthrough of the project.
+
+## Contributing
+
+Contributions are welcome! If you have ideas for improvements or find any issues, feel free to open an [issue](https://github.com/kekele-star/dash-interactive-scatter-plot/issues) or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
