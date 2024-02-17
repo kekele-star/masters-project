@@ -1,9 +1,5 @@
 # Master's Project Repository 
 
-## Overview
-
-Welcome to the repository for the Master's project. 
-
 ## Project Structure
 
 The repository is organized into the following main sections:
