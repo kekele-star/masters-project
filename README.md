@@ -35,7 +35,3 @@ To get started with ChatGPT, follow these steps:
 
 4. Use the pre-trained models in the "Models" directory for your specific applications. Refer to the README files in that directory for guidance.
 
-## Contribution Guidelines
-
-If you are interested in contributing to the project, please review the [contribution guidelines](CONTRIBUTING.md) for details on how to submit issues, propose improvements, or contribute code.
-
